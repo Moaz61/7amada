@@ -1,0 +1,14 @@
+D:\Route .NET Course\3.C# Basics\Session 1\Code Session\FirstSolution\FirstProject\bin\Debug\net8.0\FirstProject.exe
+D:\Route .NET Course\3.C# Basics\Session 1\Code Session\FirstSolution\FirstProject\bin\Debug\net8.0\FirstProject.deps.json
+D:\Route .NET Course\3.C# Basics\Session 1\Code Session\FirstSolution\FirstProject\bin\Debug\net8.0\FirstProject.runtimeconfig.json
+D:\Route .NET Course\3.C# Basics\Session 1\Code Session\FirstSolution\FirstProject\bin\Debug\net8.0\FirstProject.dll
+D:\Route .NET Course\3.C# Basics\Session 1\Code Session\FirstSolution\FirstProject\bin\Debug\net8.0\FirstProject.pdb
+D:\Route .NET Course\3.C# Basics\Session 1\Code Session\FirstSolution\FirstProject\obj\Debug\net8.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route .NET Course\3.C# Basics\Session 1\Code Session\FirstSolution\FirstProject\obj\Debug\net8.0\FirstProject.AssemblyInfoInputs.cache
+D:\Route .NET Course\3.C# Basics\Session 1\Code Session\FirstSolution\FirstProject\obj\Debug\net8.0\FirstProject.AssemblyInfo.cs
+D:\Route .NET Course\3.C# Basics\Session 1\Code Session\FirstSolution\FirstProject\obj\Debug\net8.0\FirstProject.csproj.CoreCompileInputs.cache
+D:\Route .NET Course\3.C# Basics\Session 1\Code Session\FirstSolution\FirstProject\obj\Debug\net8.0\FirstProject.dll
+D:\Route .NET Course\3.C# Basics\Session 1\Code Session\FirstSolution\FirstProject\obj\Debug\net8.0\refint\FirstProject.dll
+D:\Route .NET Course\3.C# Basics\Session 1\Code Session\FirstSolution\FirstProject\obj\Debug\net8.0\FirstProject.pdb
+D:\Route .NET Course\3.C# Basics\Session 1\Code Session\FirstSolution\FirstProject\obj\Debug\net8.0\FirstProject.genruntimeconfig.cache
+D:\Route .NET Course\3.C# Basics\Session 1\Code Session\FirstSolution\FirstProject\obj\Debug\net8.0\ref\FirstProject.dll
